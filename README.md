@@ -46,6 +46,12 @@ Voici une capture d'écran de notre application :
 ![](screenshots/home5.png)
 
 
+### Listes des évenements pas catégories
+
+![](screenshots/cat1.png)
+![](screenshots/cat2.png)
+![](screenshots/cat3.png)
+
 
 
 ## Installation
