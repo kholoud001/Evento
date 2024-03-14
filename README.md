@@ -53,6 +53,13 @@ Voici une capture d'écran de notre application :
 ![](screenshots/cat3.png)
 
 
+### Page Détail de l'évènements
+
+
+![](screenshots/det1.png)
+![](screenshots/det1.png)
+![](screenshots/det1.png)
+
 
 ## Installation
 
