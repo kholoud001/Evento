@@ -57,8 +57,8 @@ Voici une capture d'écran de notre application :
 
 
 ![](screenshots/det1.png)
-![](screenshots/det1.png)
-![](screenshots/det1.png)
+![](screenshots/det2.png)
+![](screenshots/det3.png)
 
 
 ## Installation
