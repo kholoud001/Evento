@@ -33,6 +33,19 @@ La société "Evento" ambitionne de développer une plateforme novatrice dédié
 - **Validation des événements :** Les administrateurs peuvent valider les événements créés par les organisateurs avant leur publication sur la plateforme.
 - **Accès aux statistiques :** Les administrateurs ont accès à des statistiques globales sur l'utilisation de la plateforme.
 
+## Capture d'écran
+
+Voici une capture d'écran de notre application :
+
+###Page Home
+
+![](screenshots/home1.png)
+![](screenshots/home2.png)
+![](screenshots/home3.png)
+![](screenshots/home4.png)
+
+
+
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
